@@ -4,4 +4,6 @@
     "library": ["src"], 
     "notebook": ["ML model Improved.ipynb"], 
     "targets": ["clean", "analysis", "compute"]
+    "dockerhub-id": "danial323/participation7:latest"
+    
 }
