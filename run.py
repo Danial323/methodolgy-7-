@@ -5,10 +5,6 @@ import json
 import pandas as pd
 
 sys.path.insert(0, 'src')
-from graphs-analysis import megabytes_graph
-from data_clean import clean
-from compute import mean,time_vs_bytes,max_bytes
-
 def data():
     raw_path="notebooks/data/"
     lst_files=os.listdir(raw_path)
