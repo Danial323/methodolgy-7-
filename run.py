@@ -20,7 +20,7 @@ def main(targets):
     data_config = json.load(open('config/data-params.json'))
     eda_config = json.load(open('config/config.json'))
 
-    if "data" in target:
+    if "test" in target:
         
         data= data()        
 
