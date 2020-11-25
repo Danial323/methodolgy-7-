@@ -1,7 +1,7 @@
 
 
 {
-    "outdir": "data/Updated_EDA_Molly",
-    "report_in_path": "notebooks/Updated_EDA_Molly.ipynb",
-    "report_out_path": "src/Updated_EDA_Molly.ipynb.html"
+    "outdir": "data/ML model Improved.ipynb",
+    "report_in_path": "notebooks/ML model Improved.ipynb",
+    "report_out_path": "src/ML model Improved.ipynb"
 }
