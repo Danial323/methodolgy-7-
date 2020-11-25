@@ -1,0 +1,11 @@
+{
+    "video/novideo":["True", "False"],
+    "streaming_provider": ["youtube", "hulu","amazonprime","netflix","other"],
+    "quality":[1080,2160,240,480,144,320,720],
+    "playback_speed": [0.25,0.5,1,1.25,1.4,1.5,1.75,2 ],
+    "vpn/novpn":["True", "False"],
+    "platform":["mac", "windows","linux","other"],
+    "clean/nosiy":["True", "False"],
+    "date": "datetime"
+
+}
